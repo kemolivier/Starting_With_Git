@@ -17,6 +17,7 @@ def mon_decorateur(fonction):
 
 @mon_decorateur
 def salut():
+    print("Je suis con")
     print("Salut !")
 
 salut()
