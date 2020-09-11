@@ -17,7 +17,7 @@ def mon_decorateur(fonction):
 
 @mon_decorateur
 def salut():
-    print("Je suis con")
+    print("This is the background")
     print("Salut ! Je suis Mercy, je t'envoie le courrier")
 
 salut()
