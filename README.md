@@ -1,1 +1,1 @@
-# Starting_With_Git
+Olivier ,  I changed the texte, qu'en penses tu?
